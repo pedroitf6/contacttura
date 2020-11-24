@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <div>
 
-### Status
+### Status do Projeto
 
 ### Java – Back-end
 
@@ -50,6 +50,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h4> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
+
+### Autor
+
+
+### Licença
 
 
 </div>
