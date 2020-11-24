@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Status do Projeto
 
-### Java – Back-end
+<h3>### Java – Back-end</h3>
 
 - [x] Springboot
 - [x] Criação de projeto
@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Mapeamento de conexão com banco de dados
 - [ ] Criação de serviço Rest (Integração com banco de dados)
 
-### Angular
+<h3>### Angular</h3>
 
 - [ ] Typescript ( Observable Async )
 - [ ] HTML
