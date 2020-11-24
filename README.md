@@ -6,7 +6,7 @@
   
 </p>
 
-<h3 align="center">
+<h3>
   Projeto desenvolvido no preparatório da Fuctura Tecnologia visando seleção para a empresa FlexPag! 🚀
 </h3>
 
@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [GIT](https://git-scm.com/)
 
 
-<div align="center">
+<div>
 
 ### Status
 
@@ -47,7 +47,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-<h4 align="center"> 
+<h4> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
