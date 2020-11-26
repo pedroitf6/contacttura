@@ -1,7 +1,7 @@
 <p align="center">
   
   <img src="https://site.flexpag.com/wp-content/uploads/2018/05/logo@2x.png" height="90" width="175" alt="Unform" />
-  <img src="http://www.fuctura.com.br/recife/wp-content/uploads/2018/06/logo-fuctura-2.jpg" height="80" width="130" alt="Unform" />
+  <img src="http://www.fuctura.com.br/recife/wp-content/uploads/2018/06/logo-fuctura-2.jpg" height="60" width="130" alt="Unform" />
   
   
 </p>
@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <h4> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧   Em construção...   🚧
 </h4>
 
 ### Autor
