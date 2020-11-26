@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito por Pedro Tavares 👋🏽
 
 [![Twitter Badge](https://img.shields.io/badge/-@pedroitf6-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedroitf6)](https://twitter.com/pedroitf6) 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroigortavares/)](linkedin.com/in/pedroigortavares/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroigortavares)](https://www.linkedin.com/in/pedroigortavares/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroitf6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroitf6@gmail.com)](mailto:pedroitf6@gmail.com)
 
 ### Licença
