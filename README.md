@@ -1,7 +1,7 @@
 <p align="center">
   
   <img src="https://site.flexpag.com/wp-content/uploads/2018/05/logo@2x.png" height="90" width="175" alt="Unform" />
-  <img src="http://www.fuctura.com.br/recife/wp-content/uploads/2018/06/logo-fuctura-2.jpg" height="80" width="150" alt="Unform" />
+  <img src="http://www.fuctura.com.br/recife/wp-content/uploads/2018/06/logo-fuctura-2.jpg" height="80" width="130" alt="Unform" />
   
   
 </p>
@@ -61,7 +61,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Pedro Tavares 👋🏽
 
-[![Twitter Badge](https://img.shields.io/badge/-@pedroitf6-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedroitf6)](https://twitter.com/pedroitf6) [![Linkedin Badge](https://img.shields.io/badge/-PedroTavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedroigortavares\)](www.linkedin.com/in/pedroigortavares\) 
+[![Twitter Badge](https://img.shields.io/badge/-@pedroitf6-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedroitf6)](https://twitter.com/pedroitf6) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroigortavares/)](linkedin.com/in/pedroigortavares/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroitf6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroitf6@gmail.com)](mailto:pedroitf6@gmail.com)
 
 ### Licença
