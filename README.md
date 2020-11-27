@@ -8,13 +8,14 @@
 
 <h3>
   Projeto desenvolvido no preparatório da Fuctura Tecnologia visando seleção para a empresa FlexPag! 🚀
-</h3>
-
+</h3><br>
+<h3>O que é este projeto.</h3><br>
+<h3>Agenda telefonica, onde cria novos contatos, atualiza, remove e lista todos contatos (CRUD)</h3>
 <br>
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas seram usadas na construção do projeto:
 
 - [Spring Boot](https://spring.io/)
 - [Lombok](https://projectlombok.org/)
@@ -65,7 +66,6 @@ Feito por Pedro Tavares 👋🏽
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroigortavares)](https://www.linkedin.com/in/pedroigortavares/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroitf6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroitf6@gmail.com)](mailto:pedroitf6@gmail.com)
 
-### Licença
 
 
 </div>
