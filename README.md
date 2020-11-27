@@ -66,8 +66,9 @@ Feito por Pedro Tavares 👋🏽
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroigortavares)](https://www.linkedin.com/in/pedroigortavares/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroitf6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroitf6@gmail.com)](mailto:pedroitf6@gmail.com)
 
+### Licença
+
+<img alt="GitHub" src="https://img.shields.io/github/license/pedroitf6/contacttura">
 
 
 </div>
-
-
