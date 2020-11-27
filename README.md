@@ -67,7 +67,7 @@ Feito por Pedro Tavares 👋🏽
 [![Gmail Badge](https://img.shields.io/badge/-pedroitf6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroitf6@gmail.com)](mailto:pedroitf6@gmail.com)
 
 ### Licença
-Licensed under the [MIT License](./LICENSE).
+Licensed under the 
 <a href="https://github.com/pedroitf6/contacttura/blob/master/LICENSE.md">
 <img alt="GitHub" src="https://img.shields.io/github/license/pedroitf6/contacttura">
 </a>
