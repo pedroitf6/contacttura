@@ -68,7 +68,7 @@ Feito por Pedro Tavares 👋🏽
 
 ### Licença
 
-<img alt="GitHub" src="https://img.shields.io/github/license/pedroitf6/contacttura">
+<img alt="GitHub" src="https://github.com/pedroitf6/contacttura/blob/master/LICENSE.md">
 
 
 </div>
